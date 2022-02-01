@@ -1,20 +1,18 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Machine Learning Engineer who is obeying the TDD Goat!
 
 ##### NOW
 
-- ✨ Crafted last [Laracon Online](https://laracon.net) website;
-- 🇵🇹 Planing the "Tuga-Co-Op";
+- ✨ Trying to apply TDD in Machine Learning field [TDD ML](http://github.com/junuMoon/TDD_ML)
+- 🇵🇹 Planing to have a trip to Lisboa
 - 🍑 What about this?
 
 ##### BIO
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- 🏢 I'm currently working at a corp of AI Modeling
+- ⚙️ I use daily: `Python`, `DeepLearning Framework(TensorFlow, PyTorch)`, `Machine Learning Framework(Scikit-Learn)`
+- 🌱 Want to partake in Open Source
+- 💬 Ping me about DeepLearning, MLOps, TDD
+- 📫 Reach me: [instagram.com/junu_f_sun](https://www.instagram.com/junu_f_sun/)
+- ⚡️ Fun fact: I don't like kimchi very much
