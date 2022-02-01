@@ -11,7 +11,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at a corp of AI Modeling
-- ⚙️ I use daily: `Python`, `DeepLearning Framework(TensorFlow, PyTorch)`, `Machine Learning Framework(Scikit-Learn)`
+- ⚙️ I use daily: `Python`, `DeepLearning/MachineLearning Framework`, `MLOps`
 - 🌱 Want to partake in Open Source
 - 💬 Ping me about DeepLearning, MLOps, TDD
 - 📫 Reach me: [instagram.com/junu_f_sun](https://www.instagram.com/junu_f_sun/)
