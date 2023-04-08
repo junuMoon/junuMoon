@@ -1,22 +1,23 @@
 ### Hi there 👋
 
-- I'm a Machine Learning Engineer who is obeying the TDD Goat!
-- Ping me about TDD, NLP, MLOps and other interesting things
-- Peek my life as a ml engineer
-  - [instagram.com/junu_f_sun](https://www.instagram.com/junu_f_sun/)
-  - [https://junumoon.github.io](https://junumoon.github.io)
-- Fun fact: I don't like kimchi very much
+I'm a Machine Learning Engineer driven by the TDD Goat spirit! 🐐
+I have double major in Spanish and Information Science, blending my passion for languages and information systems. My curiosity about how languages form information led me to the fascinating world of machine learning. Currently, I'm working on NLP projects at **[ReturnZero](https://www.rtzr.ai)**, a company providing speech recognition engines.
 
-##### BIO
-
-- I'm currently working at [ReturnZero](https://www.rtzr.ai) as a research engineer
-- A member of [Psuedo-labs](https://pseudo-lab.com)(Non-profit community centered around machine learning research)
+👀 Get a glimpse of my life as an ML engineer:
+- [Blog](https://junumoon.github.io)
+- [TodoNote](https://github.com/junuMoon/TodoNote/blob/master/todo_note.md)
 
 ##### FOCUS
 
-- Trying to apply TDD in Machine Learning field [TDD ML](http://github.com/junuMoon/TDD_ML)
-- Putting all the effort to develop models colloaborating with awesome people of ReturnZero
-  - Main focus: Voice detection, Speaker diarization 
-  - Try our Korean Speech-To-Text service [VITO](https://www.vitoapp.io)
-- Contributing to [Korean NLP Open Coobook](https://github.com/Pseudo-Lab/nlp_open_cookbook)
-  - I'm assigned to build text classifcation model based on tree models like RandomForest, XGBoost
+- Dialogue Summarization: Exploring LLMs for chronological summarization of dialogue transcripts, overcoming their unique challenges and multiple topics.
+- Reinforcement Learning with User Feedback: Investigating how human feedback can improve LLMs' direction and performance across various inputs.
+- Statistical & Behavioral Testing for NLP: Developing effective, quantitative testing methods for LMs' suitability in downstream tasks and model stability evaluation.
+
+##### LIFE IN ML
+- 🎯 Applying Test-Driven Development (TDD) principles in the Machine Learning field.
+- 🌍 I'm a proud polyglot with a B2 level in Spanish and a TOEIC score of 960. My favorite linguist is Steven Pinker!
+- 🚀 Recently, I successfully led a full-scale seminar about LLM at my work.
+- 💻 Contributing to the [Korean NLP Open Cookbook](https://github.com/Pseudo-Lab/nlp_open_cookbook) in [Pseudo-lab](https://pseudo-lab.com), a non-profit org.
+- 📚 I actively participate in our LLM study group, exploring innovative ways to use LLMs in the field of NLP at [modue-lab](https://modulabs.co.kr).
+
+Feel free to connect and collaborate. Let's push the boundaries of language and machine learning together! 🌟
